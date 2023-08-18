@@ -1,0 +1,15 @@
+Selenium Cucumber Project Configuration
+
+1.	Install Java 8
+2.	Set Java path and variable in System Environment Variable
+3.	Install Eclipse IDE for java developer.
+4.	Install “Cucumber” plugin from eclipse marketplace.
+5.	Download ChromeDrive (115) according to current browser version, just so know you I have already added in resource folder
+6.	Add the following dependencies with current version from Maven Central Repository “https://mvnrepository.com/repos/central”
+a.	Selenium-Java
+b.	Cucumber-Java
+c.	Cucumber -Junit
+d.	Junit
+e.	Cucumber-Reporting
+f.	Maven-Cucumber-Reporting
+7.	Add Maven Cucumber Reporting plugin from https://github.com/damianszczepanik/maven-cucumber-reporting
